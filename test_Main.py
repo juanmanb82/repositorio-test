@@ -11,7 +11,7 @@ from main import *
 class TestOperaciones(unittest.TestCase):
     def setUp(self):
         # Aquí, opcionalmente, ejecuta lo que deberías ejecutar antes
-        # de comenzar cada test.
+        # de comenzar cada test. agrego algo
         pass
 
     def test_suma(self):
